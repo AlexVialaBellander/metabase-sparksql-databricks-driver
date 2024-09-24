@@ -16,3 +16,11 @@ make build
 ```
 
 The Metabase Databricks driver gets build and included in a final Metabase docker image.
+
+### DockerHub
+You can also pull the image from DockerHub:
+```
+docker pull alexviala/metabase:0.50.26-databricks
+```
+
+https://hub.docker.com/r/alexviala/metabase
